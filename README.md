@@ -39,7 +39,7 @@ Unlike a true genetic algorithm, future generations are spawned from mutations o
 
 * **Drake Young** - *Initial work* - [drake-young](https://github.com/drake-young)
 
-See also the list of [contributors](https://github.com/drake-young/Euler20_Python/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/drake-young/Space_Removal_and_Replacement/graphs/contributors) who participated in this project.
 
 ## Additional Links and References
 
